@@ -4,6 +4,16 @@ This Node.js script scrapes book information from a website and saves it to a Mo
 ## Output
 ![Output Image](img/output_BOOK.png)
 
+## OUTPUT VIDEO
+
+![Video](vdo/vdodata.mp4)
+
+<video width="320" height="240" controls>
+  <source src="vdo/vdodata.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Prerequisites
 
 Before running the script, ensure you have the following prerequisites:
