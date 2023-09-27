@@ -4,11 +4,9 @@ This Node.js script scrapes book information from a website and saves it to a Mo
 ## Output
 ![Output Image](img/output_BOOK.png)
 
-## OUTPUT VIDEO
+## Video Link
 
-Video Link:[![Video](LINK)](https://clipchamp.com/watch/Vj7ZpnUpTqF)
-
-
+[![Video 🎥](LINK)](https://clipchamp.com/watch/Vj7ZpnUpTqF)
 
 ## Prerequisites
 
