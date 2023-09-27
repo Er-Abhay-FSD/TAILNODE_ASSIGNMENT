@@ -6,10 +6,7 @@ This Node.js script scrapes book information from a website and saves it to a Mo
 
 ## OUTPUT VIDEO
 
-<video width="320" height="240" controls>
-  <source src="vdodatbase/vdodata.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Video Link:[![Video](LINK)](https://clipchamp.com/watch/Vj7ZpnUpTqF)
 
 
 
