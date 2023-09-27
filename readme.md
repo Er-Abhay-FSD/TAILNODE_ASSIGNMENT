@@ -1,6 +1,8 @@
 # Book Scraper and Database Saver
 
 This Node.js script scrapes book information from a website and saves it to a MongoDB database. It utilizes Axios for making HTTP requests, Cheerio for parsing HTML, and Mongoose for database operations.
+## Output
+![Output Image](img/output_BOOK.png)
 
 ## Prerequisites
 
